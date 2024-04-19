@@ -1,0 +1,15 @@
+{
+  "name": "appleappstorehistory",
+  "version": "1.0.0",
+  "description": "Retrieve application version history from the Apple App Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-html-parser": "^6.1.13"
+  }
+}
